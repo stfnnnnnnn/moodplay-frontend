@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState } from 'react';
 import logo from './assets/moodplay-logo.svg';
 import { auth, googleProvider, db } from './firebase';
 import { signInWithPopup } from 'firebase/auth';
