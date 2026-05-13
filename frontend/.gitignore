@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Python virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.claude
